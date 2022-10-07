@@ -3,3 +3,4 @@ o-iam-betty changes user to betty
 2-groups script prints all groups the user belong to
 3-new_owner script changes the owner of file hello to betty
 4-empty script creates an empty file hello
+5-execute script,creates an exec hello file
