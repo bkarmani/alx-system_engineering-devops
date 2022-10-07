@@ -10,3 +10,4 @@ o-iam-betty changes user to betty
 9-John_Doe gives 753 permissions to hello file
  10-mirror_permissions makes hello inherit the permissions of olleh file
 11-directories_permissions script gives directory permissions
+12-directory_permissions creates a dir my_dir and assigns permsission 751
