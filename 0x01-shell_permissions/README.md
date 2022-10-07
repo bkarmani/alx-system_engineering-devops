@@ -8,3 +8,4 @@ o-iam-betty changes user to betty
 7-everybody script assigns exec permission to all in hello file
 8-James_Bond gives all permissions to other users only
 9-John_Doe gives 753 permissions to hello file
+ 10-mirror_permissions makes hello inherit the permissions of olleh file
