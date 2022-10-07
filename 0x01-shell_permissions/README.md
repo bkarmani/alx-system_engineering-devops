@@ -9,3 +9,4 @@ o-iam-betty changes user to betty
 8-James_Bond gives all permissions to other users only
 9-John_Doe gives 753 permissions to hello file
  10-mirror_permissions makes hello inherit the permissions of olleh file
+11-directories_permissions script gives directory permissions
