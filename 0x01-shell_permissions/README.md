@@ -6,3 +6,4 @@ o-iam-betty changes user to betty
 5-execute script,creates an exec hello file
 6-multiple_permissions script grants exec and write permissions to hello file
 7-everybody script assigns exec permission to all in hello file
+8-James_Bond gives all permissions to other users only
