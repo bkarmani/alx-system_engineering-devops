@@ -3,3 +3,4 @@
 2-hellofile script cats both files in etc dir
 3-twofiles script views to files of different dirs
 4-lastlines script displays last ten lines of /etc/passwd
+5-firstlines script prints the first 5 line in /etc/passwd file
