@@ -14,3 +14,4 @@
 13-unique script filters the list
 14-findthatword script prints the root
 15-countthatword script Displays the number of lines that contain the pattern “bin” in the file /etc/passwd
+16-whatsnext script Displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
