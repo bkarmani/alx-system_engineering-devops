@@ -21,3 +21,4 @@
 20-hiago script, removes all letters c and C from input
 21-reverse script,  reverses its input
 22-users_and_homes script, displays all users and their home directories, sorted by users
+100-empty_casks script, lists all the files with a .gif extension in the current directory and all its sub-directories
