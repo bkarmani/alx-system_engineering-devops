@@ -8,3 +8,5 @@
 7-file script, creates the wired file
 8-cwd_state script redirects stdout to ls_cwd_content
 9-duplicate_last_line script, duplicates the last line
+10-no_more_js script deletes all files ending with .js
+11-directories script counts the numbers of files
