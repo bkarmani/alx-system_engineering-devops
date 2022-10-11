@@ -12,3 +12,4 @@
 11-directories script counts the numbers of files
 12-newest_files scripy, print newest files
 13-unique script filters the list
+14-findthatword script prints the root
