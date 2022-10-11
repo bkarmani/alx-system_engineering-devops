@@ -11,3 +11,4 @@
 10-no_more_js script deletes all files ending with .js
 11-directories script counts the numbers of files
 12-newest_files scripy, print newest files
+13-unique script filters the list
