@@ -13,3 +13,4 @@
 12-newest_files scripy, print newest files
 13-unique script filters the list
 14-findthatword script prints the root
+15-countthatword script Displays the number of lines that contain the pattern “bin” in the file /etc/passwd
