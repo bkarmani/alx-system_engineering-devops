@@ -1,1 +1,1 @@
-this directory contains server schema
+this directory contains web infrastructures
